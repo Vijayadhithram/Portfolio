@@ -1,33 +1,22 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "Java",
+            "workType": "Backend",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Developing a Personal financial Tracking apps",
+                "Started to learn Operating System Concepts in Java"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "07/2023 – 11/2023"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Journey      Started",
+            "workType": "Web    DEveloper",
             "workDescription": [
-                "Worked on abc."
+                "Developing a fun type project ",
+                "Have some experiences in dart"
             ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "06/2022 – 03/2023"
         }
     ]
 }

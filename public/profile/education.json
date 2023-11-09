@@ -1,19 +1,25 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
+            "title": "Jun 2022 - Jun 2026",
             "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "cardSubtitle":"SRM Institute Of Science And Technology",
+            "cardDetailedText": "CGPA - 9.0",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/SRM.png"
             }
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "July 2022",
+            "cardTitle": "Senior Secondary Stage",
+            "cardSubtitle":"Maharishi Internation Residential School, Sriperumbudur",
+            "cardDetailedText": "Marks - 81%"
+        },
+        {
+            "title": "July 2020",
+            "cardTitle": "The Secondary Stage",
+            "cardSubtitle":"The Vijay Millennium School, Krishnagiri",
+            "cardDetailedText": "Marks - 85%"
         }
     ]
 }

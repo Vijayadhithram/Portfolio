@@ -18,10 +18,6 @@
                     "title": "JavaScript"
                 },
                 {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
-                },
-                {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
                 }
@@ -53,11 +49,8 @@
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
-                },
-                {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
                 }
+                
             ]
     }
 ]}
